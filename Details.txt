@@ -1,0 +1,58 @@
+
+Topics:
+
+    VDOM - Memory DOM for re-concillation process
+    JSX - Simple HTML Tags along with JS forms a separate component which can be used as Tag
+
+    List Rendering:
+      Used to display UI from Collection of Data
+
+      usage of keys:
+        To uniquely identify a VDOM Element
+
+    Simple ToDo List Building for understanding the below items,
+
+      Events:
+        input - onChange, button onClick
+      
+      State:
+        value that changes during the interaction
+
+      props:
+        Static attribute value passed during the usage of the component
+
+
+      Changing the state value of a parent from the Child Element event
+      Data passing from Child to Parent using a callback function
+
+    Component Lifecycle:
+
+      initialization:
+        js memory initialization like a variable in js codes
+
+        variable getting the jsx syntax as value
+
+      Mounting Phase:
+        a jsx component getting mounted into the DOM
+
+      Updation:
+        A state update modifying the inner contents of a mounted component is called updation
+
+      Unmounting:
+        a jsx component getting removed/unmounted from the DOM
+
+Task:
+  Revise today's codes
+
+Next Session:
+
+  Accessing the JS Memory/React Rendering during different lifecycle phases
+
+  Building a simple UI for CRUD operations for Movies Listing Application using below,
+
+    Local variables:
+
+    Mock API using Aysnc Programming in React:
+
+Note:
+  For every project/task create a new React Application
